@@ -7,4 +7,4 @@ My own testing ground, where I will first try out and revise some parts of my ol
 Because I want to learn and try new things, gain specific knowledge, and dive deeper into computer science.
 
 # What to expect ?
-At this point, I have a few older UML diagrams that I will need to rewrite at some point in the future. After that, I will wait a few days for the technical specifications, and then, after all that, I will start the process of rewriting and updating my project.
+At this point, I have some older UML diagrams that were created with whitestarUML and will need to be re-created as they will need to be updated in the future. I will need some time to extract the information from them, which I currently don't have. After that, I will take a few days to think about the technical specifications and then start the process of updating my project.
